@@ -1,4 +1,4 @@
-var number = 0 //Número deve ser váriado para o realização do teste. 
+var number = 0 //Número deve ser alterado para o realização do teste. 
 
 if (number <= 0) {
     if (number == 0) {
