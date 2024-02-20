@@ -1,2 +1,2 @@
 # **1º Desenvolvimento De Atividades**
-Atividades de programação para o Prof. **João Paulo**.
+Primeira etapa das atividades de programação para o Prof. **João Paulo**.
