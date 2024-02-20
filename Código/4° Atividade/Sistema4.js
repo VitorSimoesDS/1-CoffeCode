@@ -1,4 +1,4 @@
-var number = 0; //Número deve ser alterado para o realização do teste. 
+var number = parseInt(prompt("Insira um número: "));
 
 if (number <= 0) {
     if (number == 0) {
